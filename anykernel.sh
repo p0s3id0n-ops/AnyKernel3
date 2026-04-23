@@ -47,7 +47,6 @@ else
     flash_boot
 fi
 ## end boot install
-# 优先选择模块路径
 if [ -f "$AKHOME/zram.zip" ]; then
     MODULE_PATH="$AKHOME/zram.zip"
     KSUD_PATH="/data/adb/ksud"
