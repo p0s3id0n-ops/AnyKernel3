@@ -31,7 +31,7 @@ NO_MAGISK_CHECK=1
 # import functions/variables and setup patching - see for reference (DO NOT REMOVE)
 . tools/ak3-core.sh
 
-ui_print "Auth: Coolapk@cctv18 edit by PSD"
+ui_print "Auth: by PSD"
 
 # Resolving occasional file system I/O latency issues which may cause binary execution exceptions
 sync
